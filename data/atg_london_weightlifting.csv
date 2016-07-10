@@ -1,0 +1,263 @@
+Name,Gender,Age,Country,Date Of Birth,Place Of Birth,height (cm),Height (foot),Weight (kg),Weight (Pounds),Category
+Martin Tesovic,M,37,Slovakia,26/10/1974,Bratislava (SVK),182,"6'0""",105,231 lbs,Men's 105kg
+Tom R Goegebuer,M,37,Belgium,27/03/1975,Gent (BEL),163,"5'4""",56,123 lbs,Men's 56kg
+Natasha Perdue,F,36,Great Britain,27/07/1975,SWANSEA (GBR),161,"5'3""",69,152 lbs,Women's 69kg
+Shih Hsu Huang,F,36,Taipei (Chinese Taipei),30/11/1975,PINGTUNG (TPE),160,"5'3""",69,152 lbs,Women's 69kg
+Oliba Seledina Nieve Arroyo,F,34,Ecuador,25/11/1977,QUININDE (ECU),168,"5'6""",90,198 lbs,Women's +75kg
+Manuel Minginfel,M,33,Federated States of Micronesia,28/09/1978,YAP (FSM),158,"5'2""",62,137 lbs,Men's 62kg
+Mercy Apondi Obiero,F,33,Kenya,27/08/1978,Nairobi (KEN),165,"5'5""",68,150 lbs,Women's 69kg
+Artem Udachyn,M,32,Ukraine,26/03/1980,Donetsk (UKR),186,"6'1""",160,353 lbs,Men's +105kg
+Carl Henriquez,M,32,Aruba,8/8/1979,ARUBA (ARU),178,"5'10""",110,243 lbs,Men's +105kg
+Frederic Fokejou Tefot,M,32,Cameroon,3/12/1979,BAGAM (CMR),187,"6'2""",105,231 lbs,Men's +105kg
+Maria Alexandra Escobar Guerrero,F,32,Ecuador,17/07/1980,RIO VERDE (ECU),158,"5'2""",58,128 lbs,Women's 58kg
+Sergio Alvarez Boulet,M,32,Cuba,11/10/1979,Matanzas (CUB),155, ,56,123 lbs,Men's 56kg
+Sergio Alvarez Boulet,M,32,Cuba,11/10/1979,Matanzas (CUB),Not, ,56,123 lbs,Men's 56kg
+Sirivimon Pramongkhol,F,32,India,15/02/1980,IMPHAL WEST (IND),145, ,48,106 lbs,Women's 48kg
+Abbas Alqaisoum,M,31,Saudi Arabia,31/10/1980,ALQATIF (KSA),175, ,94,207 lbs,Men's 94kg
+Abbas Alqaisoum,M,31,Saudi Arabia,31/10/1980,ALQATIF (KSA),Not, ,94,207 lbs,Men's 94kg
+Felix Ekpo,M,31,Nigeria,10/5/1981,CALABAR (NGR),160, ,77,170 lbs,Men's 77kg
+Lucia Castanyeda Gomez,F,31,Nicaragua,8/7/1981,Managua (NCA),Not, ,63,139 lbs,Women's 63kg
+Luz Mercedes Acosta Valdez,F,31,Mexico,22/12/1980,Sonora (MEX),166,"5'5""",63,139 lbs,Women's 63kg
+Sang-Guen Jeon,M,31,Republic of Korea,28/02/1981,Gangwon (KOR),183,"6'0""",158,348 lbs,Men's +105kg
+Vencelas Dabaya Tientcheu,M,31,France,28/04/1981,KUMBA (CMR),167,"5'6""",69,152 lbs,Men's 69kg
+Ahed Jouhili,M,30,Syrian Arab Republic,10/1/1982,HAMA (SYR),180,"5'11""",105,231 lbs,Men's 105kg
+Almir Velagic,M,30,Germany,22/08/1981,LIVNO (BIH),183,"6'0""",140,309 lbs,Men's +105kg
+Andrei Rybakou,M,30,Belarus,4/3/1982,Mogilev (BLR),172,"5'8""",85,187 lbs,Men's 85kg
+Aylin Dasdelen,F,30,Turkey,1/1/1982,Ankara (TUR),160,"5'3""",53,117 lbs,Women's 53kg
+Inmara Tibisay Henrriquez Gonzalez,F,30,Venezuela,23/09/1981,NAGUANAGUA (VEN),152,"5'0""",53,117 lbs,Women's 53kg
+Mansur Rejepov,M,30,Turkmenistan,3/1/1982,DASHOGUZ (TKM),178,"5'10""",85,187 lbs,Men's 85kg
+Marcin Dolega,M,30,Poland,18/07/1982,LUKOW (POL),184,"6'0""",105,231 lbs,Men's 105kg
+Nastassia Novikava,F,30,Belarus,16/11/1981,ZHODINO (BLR),150,"4'11""",58,128 lbs,Women's 58kg
+Ubaldina Valoyes Cuesta,F,30,Colombia,6/7/1982,CHOCO,158,"5'2""",69,152 lbs,Women's 69kg
+Umurbek Bazarbayev,M,30,Turkmenistan,17/09/1981,DASHOGUZ (TKM),165,"5'5""",62,137 lbs,Men's 62kg
+Velichko Cholakov,M,30,Azerbaijan,12/1/1982,Smolyan (BUL),198,"6'6""",170,375 lbs,Men's +105kg
+Aleksandra J Klejnowska-Krzywanska,F,29,Poland,17/12/1982,Lubin (POL),156,"5'1""",53,117 lbs,Women's 53kg
+Ara Khachatryan,M,29,Armenia,13/09/1982,Gyumri (ARM),175,"5'9""",85,187 lbs,Men's 85kg
+Dmitriy Klokov,M,29,Russian Federation,18/02/1983,Moscow Region (RUS),183,"6'0""",105,231 lbs,Men's 105kg
+Jenly Tegu Wini,F,29,Solomon Islands,9/6/1983,Honiara (SOL),170, ,58,128 lbs,Women's 58kg
+Kostyantyn Piliyev,M,29,Ukraine,28/02/1983,Donetsk (UKR),175,"5'9""",94,207 lbs,Men's 94kg
+Matthias Steiner,M,29,Germany,25/08/1982,Wien (AUT),183,"6'0""",145,320 lbs,Men's +105kg
+Oscar Albeiro Figueroa Mosquera,M,29,Colombia,27/04/1983,ZARAGOZA ANTIOQUIA (COL),165,"5'5""",62,137 lbs,Men's 62kg
+Richard Patterson,M,29,New Zealand,30/04/1983,Auckland (NZL),167,"5'6""",85,187 lbs,Men's 85kg
+Rusmeris Villar Barbosa,F,29,Colombia,28/03/1983,CARTAGENA,159,"5'3""",53,117 lbs,Women's 53kg
+Seen Lee,F,29,Australia,15/11/1982,Melbourne (AUS),160,"5'3""",58,128 lbs,Women's 58kg
+Sherzodjon Yusupov,M,29,Uzbekistan,10/10/1982,Tashkent Region (UZB),168,"5'6""",85,187 lbs,Men's 85kg
+Weili Yu,F,29,Hong Kong,,,#VALUE!,,#VALUE!,,
+Afgan Bayramov,M,28,Azerbaijan,14/10/1983,Baku (AZE),167,"5'6""",69,152 lbs,Men's 69kg
+Bakhram Mendibaev,M,28,Uzbekistan,27/08/1983,KARAKALPAKSTAN (UZB),168,"5'6""",69,152 lbs,Men's 69kg
+Christian Alberto Lopez Bobadilla,M,28,Guatemala,30/03/1984,COATEPEQUE QUETZALTENANGO (GUA),175,"5'9""",132,291 lbs,Men's +105kg
+Damon Kelly,M,28,Australia,1/12/1983,ATHERTON (AUS),182,"6'0""",149,328 lbs,Men's +105kg
+David Katoatau,M,28,Kiribati,17/07/1984,NONOUTI (KIR),166,"5'5""",94,207 lbs,Men's 94kg
+Dika Toua,F,28,Papua New Guinea,23/06/1984,Port Moresby (PNG),150,"4'11""",53,117 lbs,Women's 53kg
+Fatih Baydar,M,28,Turkey,25/12/1983,KONYA (TUR),177,"5'10""",85,187 lbs,Men's 85kg
+Hun-Min Ji,M,28,Republic of Korea,26/03/1984,Seoul (KOR),158,"5'2""",62,137 lbs,Men's 62kg
+Ivan Cambar Rodriguez,M,28,Cuba,29/12/1983,GRANMA (CUB),168, ,Not, ,Men's 77kg
+Jurgen Spiess,M,28,Germany,26/03/1984,Heidelberg (GER),174,"5'9""",105,231 lbs,Men's 105kg
+Mi-Ran Jang,F,28,Republic of Korea,9/10/1983,Gangwon (KOR),170,"5'7""",115,254 lbs,Women's +75kg
+Min-Jae Kim,M,28,Republic of Korea,13/10/1983,GYUNGGI (KOR),173,"5'8""",94,207 lbs,Men's 94kg
+Sajjad Anoushiravani Hamlabad,M,28,Islamic Republic of Iran,12/5/1984,ARDEBIL (IRI),192,"6'4""",105,231 lbs,Men's +105kg
+Sergio Armando Rada Rodriguez,M,28,Colombia,27/01/1984,CAMPO DE LA CRUZ,162,"5'4""",56,123 lbs,Men's 56kg
+Svitlana Cherniavska,F,28,Ukraine,12/2/1984,MYKOLAIV (UKR),176,"5'9""",103,227 lbs,Women's +75kg
+Andrey Demanov,M,27,Russian Federation,15/07/1985,Kuybyshev (RUS),178,"5'10""",94,207 lbs,Men's 94kg
+Bartlomiej Wojciech Bonk,M,27,Poland,11/10/1984,WIECBORK (POL),180,"5'11""",105,231 lbs,Men's 105kg
+Benjamin Didier Hennequin,M,27,France,24/08/1984,Bordeaux (FRA),172,"5'8""",85,187 lbs,Men's 85kg
+Christine Girard,F,27,Canada,3/1/1985,ELLIOT LAKE (CAN),161,"5'3""",63,139 lbs,Women's 63kg
+Chun Mi Jong,F,27,Democratic People's Republic of Korea,15/03/1985,Pyongyang (PRK),164,"5'5""",58,128 lbs,Women's 58kg
+Ele Opeloge,F,27,Samoa,11/7/1985,VAOALA (SAM),175,"5'9""",75,165 lbs,Women's +75kg
+Gia Machavariani,M,27,Georgia,26/02/1985,KHARAGAULI (GEO),170,"5'7""",105,231 lbs,Men's 105kg
+Intiqam Zairov,M,27,Azerbaijan,21/04/1985,Baku (AZE),168,"5'6""",94,207 lbs,Men's 94kg
+Irakli Turmanidze,M,27,Georgia,13/12/1984,KOBULETI (GEO),186,"6'1""",107,236 lbs,Men's +105kg
+Jadi Setiadi,M,27,Indonesia,2/2/1985,PRINGSEWU (INA),152,"5'0""",56,123 lbs,Men's 56kg
+Jaehyouk Sa,M,27,Republic of Korea,29/01/1985,Gangwon (KOR),168,"5'6""",77,170 lbs,Men's 77kg
+Khadzhimurat Akkaev,M,27,Russian Federation,27/03/1985,TURNAUZ (RUS),178,"5'10""",105,231 lbs,Men's 105kg
+Lely Berlitt Burgos Ortiz,F,27,Puerto Rico,6/6/1985,PONCE (PUR),Not, ,48,106 lbs,Women's 48kg
+Lidia Valentin Perez,F,27,Spain,10/2/1985,PONFERRADA (ESP),169,"5'7""",75,165 lbs,Women's 75kg
+Mete Binay,M,27,Turkey,19/01/1985,TOKAT (TUR),172,"5'8""",69,152 lbs,Men's 69kg
+Milka Maneva,F,27,Bulgaria,7/6/1985,Smolyan (BUL),167,"5'6""",63,139 lbs,Women's 63kg
+Nahla Ramadan Mohamed,F,27,Egypt,4/4/1985,ALEX (EGY),175,"5'9""",100,220 lbs,Women's +75kg
+Rosa Tenorio Silva,F,27,Ecuador,2/10/1984,GUAYAQUIL (ECU),163,"5'4""",69,152 lbs,Women's 69kg
+Sardar Hasanov,M,27,Azerbaijan,12/5/1985,Baku (AZE),160,"5'3""",70,154 lbs,Men's 69kg
+Sibel Simsek,F,27,Turkey,10/10/1984,Corum (TUR),168,"5'6""",63,139 lbs,Women's 63kg
+Toafitu Perive,M,27,Samoa,7/1/1985,AFEGA (SAM),173,"5'8""",77,170 lbs,Men's 77kg
+Whaseung Kim,M,27,Republic of Korea,22/06/1985,JEONNAM (KOR),178,"5'10""",105,231 lbs,Men's 105kg
+Xiaojun Lu,M,27,People's Republic of China,27/07/1984,Hubei (CHN),172,"5'8""",77,170 lbs,Men's 77kg
+Bediha Tunadagi,F,26,Turkey,20/08/1985,GAZIANTEP (TUR),160,"5'3""",58,128 lbs,Women's 58kg
+Bekzat Osmonaliev,M,26,Kyrgyzstan,28/12/1985,Bishkek (KGZ),155,"5'1""",50,110 lbs,Men's 56kg
+David Kavelasvili,M,26,Greece,2/8/1985,ZAGES (GEO),180,"5'11""",94,207 lbs,Men's 94kg
+Gareth Evans,M,26,Great Britain,18/04/1986,Dundee (GBR),169,"5'7""",68,150 lbs,Men's 69kg
+Hiromi Miyake,F,26,Japan,18/11/1985,NIIZA (JPN),146,"4'9""",48,106 lbs,Women's 48kg
+Ihor Shymechko,M,26,Ukraine,27/05/1986,Lviv (UKR),190,"6'3""",140,309 lbs,Men's +105kg
+Iryna Kulesha,F,26,Belarus,26/06/1986,OBEROVSCHINA (BLR),163,"5'4""",75,165 lbs,Women's 75kg
+Ivan Efremov,M,26,Uzbekistan,9/3/1986,Tashkent Region (UZB),183,"6'0""",105,231 lbs,Men's 105kg
+Jihye Lim,F,26,Republic of Korea,28/10/1985,Gangwon (KOR),163,"5'4""",75,165 lbs,Women's 75kg
+Kazuomi Ota,M,26,Japan,1/7/1986,KITAKYUSHU (JPN),183,"6'0""",145,320 lbs,Men's +105kg
+Kendrick Farris,M,26,United States of America,2/7/1986,Shreveport (USA),168,"5'6""",84,185 lbs,Men's 85kg
+Maiya Maneza,F,26,Kazakhstan,1/11/1985,Bishkek (KGZ),161,"5'3""",63,139 lbs,Women's 63kg
+Melanie Bardis,F,26,France,13/05/1986,Ambilly (FRA),160,"5'3""",48,106 lbs,Women's 48kg
+Mingjuan Wang,F,26,People's Republic of China,11/10/1985,HUNAN (CHN),150,"4'11""",48,106 lbs,Women's 48kg
+Oleksiy Torokhtiy,M,26,Ukraine,22/05/1986,Donetsk (UKR),181,"5'11""",105,231 lbs,Men's 105kg
+Peter Nagy,M,26,Hungary,16/01/1986,Komarom (HUN),192,"6'4""",152,335 lbs,Men's +105kg
+Svetlana Podobedova,F,26,Kazakhstan,25/05/1986,Moscow (RUS),165,"5'5""",75,165 lbs,Women's 75kg
+Thuraia Sobh,F,26,Syrian Arab Republic,4/1/1986,HAMA (SYR),177,"5'10""",75,165 lbs,Women's 75kg
+Yoelmis Hernandez Paumier,M,26,Cuba,25/04/1986,ISLA DE LA JUVENTUD (CUB),Not, ,85,187 lbs,Men's 85kg
+Yong Lu,M,26,People's Republic of China,1/1/1986,Guangxi (CHN),175,"5'9""",85,187 lbs,Men's 85kg
+Yuderqui Contreras,F,26,Dominican Republic,22/03/1986,SAN PEDRO DE MACORIS (DOM),155,"5'1""",53,117 lbs,Women's 53kg
+Betsi Gabriela Rivas Arteaga,F,25,Venezuela,2/10/1986,SAN CARLOS (VEN),147,"4'10""",48,106 lbs,Women's 48kg
+Erol Bilgin,M,25,Turkey,20/02/1987,Kütahya (TUR),158,"5'2""",62,137 lbs,Men's 62kg
+Esmat Ahmed,F,25,Egypt,20/11/1986,ALEX (EGY),165,"5'5""",69,152 lbs,Women's 69kg
+Ewa Mizdal,F,25,Poland,18/07/1987,LUBLIN (POL),160,"5'3""",69,152 lbs,Women's 69kg
+Itte Detenamo,M,25,Nauru,22/09/1986,NAURU (NRU),170,"5'7""",140,309 lbs,Men's +105kg
+Iulia Paratova,F,25,Ukraine,7/11/1986,Odesa (UKR),158,"5'2""",53,117 lbs,Women's 53kg
+Jaqueline Ferreira,F,25,Brazil,5/3/1987,Rio De Janeiro (BRA),Not, ,75,165 lbs,Women's 75kg
+Jorge Eduardo Garcia Bustos,M,25,Chile,22/04/1987,LA SERENA (CHI),174,"5'9""",105,231 lbs,Men's 105kg
+Kirill Pavlov,M,25,Kazakhstan,13/09/1986,Almaty,173,"5'8""",77,170 lbs,Men's 77kg
+Mohamed Abdel Baki,M,25,Egypt,18/07/1987,FAYOUM (EGY),162,"5'4""",69,152 lbs,Men's 69kg
+Norayr Vardanyan,M,25,Armenia,15/05/1987,Gyumri (ARM),175,"5'9""",94,207 lbs,Men's 94kg
+Nurdan Karagoz,F,25,Turkey,25/01/1987,Bolu (TUR),150,"4'11""",48,106 lbs,Women's 48kg
+Oxana Slivenko,F,25,Russian Federation,20/12/1986,Chekhov (RUS),164,"5'5""",69,152 lbs,Women's 69kg
+Rauli Tsirekidze,M,25,Georgia,24/05/1987,KUTAISI (GEO),174,"5'9""",85,187 lbs,Men's 85kg
+Romela Begaj,F,25,Albania,2/11/1986,Tiranë (ALB),160,"5'3""",58,128 lbs,Women's 58kg
+Ruslan Makarov,M,25,Uzbekistan,19/01/1987,Tashkent Region (UZB),158,"5'2""",56,123 lbs,Men's 56kg
+Saad Ahmed Mohamed,M,25,Egypt,1/11/1986,FAYOUM (EGY),158,"5'2""",62,137 lbs,Men's 62kg
+Tarek Abdelazim,M,25,Egypt,18/05/1987,ELMENIA (EGY),175,"5'9""",85,187 lbs,Men's 85kg
+Almas Uteshov,M,24,Kazakhstan,30/03/1988,KZYL,175,"5'9""",94,207 lbs,Men's 94kg
+Andrei Aramnau,M,24,Belarus,17/04/1988,Borisov (BLR),173,"5'8""",105,231 lbs,Men's 105kg
+Arsen Kasabijew,M,24,Poland,15/11/1987,CCHINWALI (GEO),176,"5'9""",94,207 lbs,Men's 94kg
+Artem Ivanov,M,24,Ukraine,16/12/1987,Dnipropetrovsk (UKR),176,"5'9""",94,207 lbs,Men's 94kg
+Citra Febrianti,F,24,Indonesia,22/02/1988,PRINGSEWU (INA),152,"5'0""",53,117 lbs,Women's 53kg
+Eun-Hye Yang,F,24,Republic of Korea,25/07/1987,JEJU (KOR),163,"5'4""",58,128 lbs,Women's 58kg
+Helena Wong,F,24,Singapore,11/4/1988,Singapore (SIN),158,"5'2""",53,117 lbs,Women's 53kg
+Hripsime Khurshudyan,F,24,Armenia,27/07/1987,KASAKH (ARM),173,"5'8""",89,196 lbs,Women's +75kg
+Ibrahim Ramadan Ibrahim,M,24,Egypt,6/2/1988,FAYUM (EGY),180,"5'11""",77,170 lbs,Men's 77kg
+Ilya Ilyin,M,24,Kazakhstan,24/05/1988,KZYL,174,"5'9""",94,207 lbs,Men's 94kg
+Jie Zhang,M,24,People's Republic of China,26/08/1987,FUJIAN (CHN),165,"5'5""",62,137 lbs,Men's 62kg
+Kum Sok Kim,M,24,Democratic People's Republic of Korea,19/08/1987,S.PHYONGAN (PRK),162,"5'4""",69,152 lbs,Men's 69kg
+Lulu Zhou,F,24,People's Republic of China,19/03/1988,Shandong (CHN),175,"5'9""",133,293 lbs,Women's +75kg
+Mami Shimamoto,F,24,Japan,24/09/1987,Wakayama (JPN),165,"5'5""",103,227 lbs,Women's +75kg
+Meline Daluzyan,F,24,Armenia,20/04/1988,Gyumri (ARM),160,"5'3""",69,152 lbs,Women's 69kg
+Nadezda Evstyukhina,F,24,Russian Federation,27/05/1988,Moscow Region (RUS),167,"5'6""",75,165 lbs,Women's 75kg
+Peter Kirkbride,M,24,Great Britain,19/12/1987,Irvine (GBR),189,"6'2""",94,207 lbs,Men's 94kg
+Ravi Kumar Katulu,M,24,India,24/04/1988,BERHAMPUR GANJAM (IND),170, ,69,152 lbs,Men's 69kg
+Ruslan Albegov,M,24,Russian Federation,26/01/1988,VLADIKAVKAZ (RUS),192,"6'4""",156,344 lbs,Men's +105kg
+Svetlana Tsarukaeva,F,24,Russian Federation,25/12/1987,VLADIKAVKAZ (RUS),162,"5'4""",63,139 lbs,Women's 63kg
+Tigran Martirosyan,M,24,Armenia,9/6/1988,Gyumri (ARM),170,"5'7""",77,170 lbs,Men's 77kg
+Triyatno,M,24,Indonesia,20/12/1987,METRO (INA),161,"5'3""",77,170 lbs,Men's 69kg
+Yauheni Zharnasek,M,24,Belarus,9/8/1987,LEPEL (BLR),193,"6'4""",145,320 lbs,Men's +105kg
+Adrian Edward Zielinski,M,23,Poland,28/03/1989,NAKLO NAD NOTECIA (POL),170,"5'7""",85,187 lbs,Men's 85kg
+Anatoli Ciricu,M,23,Republic of Moldova,14/09/1988,CAHUL (MDA),178,"5'10""",94,207 lbs,Men's 94kg
+Doyler Eustoquio Sanchez Guerrero,M,23,Colombia,12/10/1988,CUCUTA,168,"5'6""",69,152 lbs,Men's 69kg
+Endri Karina,M,23,Albania,2/3/1989,ELBASAN (ALB),186,"6'1""",94,207 lbs,Men's 94kg
+Gabriel Sincraian,M,23,Romania,21/12/1988,CLUJ NAPOCA (ROU),172,"5'8""",85,187 lbs,Men's 85kg
+Harinelina N Rakotondramanana,F,23,Madagascar,15/01/1989,ANTANANARIVO (MAD),158,"5'2""",48,106 lbs,Women's 48kg
+Ibrahim Arat,M,23,Turkey,2/12/1988,Izmir (TUR),179,"5'10""",94,207 lbs,Men's 94kg
+Ivan Markov,M,23,Bulgaria,14/09/1988,BURGAS (BUL),175,"5'9""",85,187 lbs,Men's 85kg
+Jackelina Heredia Cuesta,F,23,Colombia,31/12/1988,TURBO,160,"5'3""",58,128 lbs,Women's 58kg
+Jingbiao Wu,M,23,People's Republic of China,10/1/1989,FUJIAN (CHN),163,"5'4""",56,123 lbs,Men's 56kg
+Jiri Orsag,M,23,Czech Republic,5/1/1989,ZNOJMO (CZE),181,"5'11""",128,282 lbs,Men's +105kg
+Joanna Lochowska,F,23,Poland,17/11/1988,ZIELONA GORA (POL),160,"5'3""",53,117 lbs,Women's 53kg
+Jose Lino Montes Gongora,M,23,Mexico,18/04/1989,YUCATAN (MEX),153,"5'0""",56,123 lbs,Men's 56kg
+Julia Rohde,F,23,Germany,13/05/1989,GORLITZ (GER),155,"5'1""",53,117 lbs,Women's 53kg
+Julio Cesar Salamanca Pineda,M,23,El Salvador,15/07/1989,San Miguel (ESA),159,"5'3""",60,132 lbs,Men's 62kg
+Junior Antonio Sanchez Rivero,M,23,Venezuela,1/6/1989,Barquisimeto (VEN),163,"5'4""",69,152 lbs,Men's 69kg
+Khalil El Maoui,M,23,Tunisia,12/9/1988,LA MARSA (TUN),164,"5'5""",56,123 lbs,Men's 56kg
+le Quoc Toan Tran,M,23,Vietnam,5/4/1989,DA NANG CITY,160,"5'3""",56,123 lbs,Men's 56kg
+Marie-Eve Beauchemin-Nadeau,F,23,Canada,13/10/1988,Montreal (CAN),166,"5'5""",69,152 lbs,Women's 69kg
+Navab Nasirshelal,M,23,Islamic Republic of Iran,1/4/1989,AHVAZ (IRI),175,"5'9""",105,231 lbs,Men's 105kg
+Panida Khamsri,F,23,Thailand,13/01/1989,SURIN (THA),148,"4'10""",48,106 lbs,Women's 48kg
+Qingfeng Lin,M,23,People's Republic of China,26/01/1989,FUJIAN (CHN),167,"5'6""",63,139 lbs,Men's 69kg
+Roxana Daniela Cocos,F,23,Romania,5/6/1989,Bucuresti (ROU),158,"5'2""",64,141 lbs,Women's 69kg
+Sarah Robles,F,23,United States of America,1/8/1988,San Diego (USA),178,"5'10""",122,269 lbs,Women's +75kg
+Sergiy Tagirov,M,23,Ukraine,2/1/1989,Dnipropetrovsk (UKR),179,"5'10""",105,231 lbs,Men's 105kg
+Sourab Moradi,M,23,Islamic Republic of Iran,22/09/1988,LENJAN (IRI),170,"5'7""",85,187 lbs,Men's 85kg
+Un Guk Kim,M,23,Democratic People's Republic of Korea,28/10/1988,Pyongyang (PRK),158,"5'2""",62,137 lbs,Men's 62kg
+Yasmani Romero,M,23,Cuba,26/09/1988,Las Tunas (CUB),Not, ,56,123 lbs,Men's 56kg
+Yuliya Kalina,F,23,Ukraine,24/10/1988,Donetsk (UKR),160,"5'3""",58,128 lbs,Women's 58kg
+Alexandr Ivanov,M,22,Russian Federation,22/07/1989,RUSTAVI (RUS),176,"5'9""",94,207 lbs,Men's 94kg
+Ali Elkekli,M,22,Libya,4/9/1989,Tripoli (LBA),172,"5'8""",84,185 lbs,Men's 85kg
+Aliaksandr Makaranka,M,22,Belarus,2/2/1990,Orsha (BLR),178,"5'10""",94,207 lbs,Men's 94kg
+Annie Marie Roseline Moniqui,F,22,Canada,28/03/1990,GODMANCHESTER (CAN),158,"5'2""",58,128 lbs,Women's 58kg
+Arakel Mirzoyan,M,22,Armenia,21/10/1989,BAGHRAMYAN (ARM),168,"5'6""",69,152 lbs,Men's 69kg
+Behdad Salimikordasiabi,M,22,Islamic Republic of Iran,8/12/1989,GHAEMSHAHR (IRI),197,"6'6""",165,364 lbs,Men's +105kg
+Bernardin Ledoux Kingue Matam,M,22,France,20/05/1990,Yaoundé (CMR),163,"5'4""",69,152 lbs,Men's 69kg
+Briken Calja,M,22,Albania,19/02/1990,SHTERMEN ELBASAN (ALB),169,"5'7""",69,152 lbs,Men's 69kg
+Carlos Berna,M,22,Colombia,21/01/1990,CAREPA,152,"5'0""",56,123 lbs,Men's 56kg
+Chol Bom Sin,M,22,Democratic People's Republic of Korea,15/06/1990,Nampho (PRK),152,"5'0""",56,123 lbs,Men's 56kg
+Deni,M,22,Indonesia,26/07/1989,BOGOR (INA),163,"5'4""",69,152 lbs,Men's 69kg
+Fernando Saraiva Reis,M,22,Brazil,10/3/1990,Sao Paulo (BRA),187,"6'2""",138,304 lbs,Men's +105kg
+Holley Mangold,F,22,United States of America,22/12/1989,KETTERING (USA),173,"5'8""",154,340 lbs,Women's +75kg
+Irawan Eko Yuli,M,22,Indonesia,24/07/1989,TEJOSARI (INA),157,"5'2""",62,137 lbs,Men's 62kg
+Jean Greeff,M,22,South Africa,17/04/1990,Johannesburg (RSA),181,"5'11""",94,207 lbs,Men's 94kg
+Lina Marcela Rivas,F,22,Colombia,24/04/1990,CHIGORODO,163,"5'4""",58,128 lbs,Women's 58kg
+Manueli Tulo,M,22,Fiji,25/03/1990,LEVUKA (FIJ),151,"4'11""",56,123 lbs,Men's 56kg
+Maria Liku,F,22,Fiji,27/04/1990,LEVUKA (FIJ),158,"5'2""",58,128 lbs,Women's 58kg
+Maryna Shkermankova,F,22,Belarus,9/4/1990,GLUBOKOE (BLR),161,"5'3""",69,152 lbs,Women's 69kg
+Pimsiri Sirikaew,F,22,Thailand,25/04/1990,KHON KAEN (THA),149,"4'11""",58,128 lbs,Women's 58kg
+Pitaya Tibnoke,M,22,Thailand,21/09/1989,SURIN (THA),176,"5'9""",85,187 lbs,Men's 85kg
+Safaa Al-Jumaili,M,22,Iraq,1/1/1990,DIYALA (IRQ),175,"5'9""",85,187 lbs,Men's 85kg
+Shih-Chieh Chen,M,22,Taipei (Chinese Taipei),27/11/1989,PINGTUNG (TPE),187,"6'2""",140,309 lbs,Men's +105kg
+Xueying Li,F,22,People's Republic of China,15/05/1990,HENAN (CHN),161,"5'3""",58,128 lbs,Women's 58kg
+Yura Mun,F,22,Republic of Korea,13/05/1990,GYUNGGI (KOR),157,"5'2""",69,152 lbs,Women's 69kg
+Abdelhay Saad Abdelrazek Ragab,M,21,Egypt,4/3/1991,DAMIETTA (EGY),175,"5'9""",85,187 lbs,Men's 85kg
+Astrid Roxana Camposeco Hernandez,F,21,Guatemala,27/04/1991,QUETZALTENANGO (GUA),167,"5'6""",84,185 lbs,Women's +75kg
+Atthaphon Daengchanthuek,M,21,Thailand,19/12/1990,SI SA KET (THA),164,"5'5""",69,152 lbs,Men's 69kg
+Christin Ulrich,F,21,Germany,19/09/1990,Schmalkalden (GER),150,"4'11""",58,128 lbs,Women's 58kg
+Chun Hwa Ryang,F,21,Democratic People's Republic of Korea,12/6/1991,Pyongyang (PRK),147,"4'10""",48,106 lbs,Women's 48kg
+Dzina Sazanavets,F,21,Belarus,25/10/1990,KLICHEV (BLR),160,"5'3""",69,152 lbs,Women's 69kg
+Haojie Lu,M,21,People's Republic of China,3/8/1990,Jiangsu (CHN),175,"5'9""",77,170 lbs,Men's 77kg
+Hidilyn Diaz,F,21,Philippines,20/02/1991,ZAMBOANGA CITY (PHI),158,"5'2""",58,128 lbs,Women's 58kg
+Hursit Atak,M,21,Turkey,24/05/1991,SIRNAK (TUR),162,"5'4""",62,137 lbs,Men's 62kg
+Jack Oliver,M,21,Great Britain,4/1/1991,Sidcup (GBR),168,"5'6""",77,170 lbs,Men's 77kg
+Jeongsik Won,M,21,Republic of Korea,9/12/1990,Gangwon (KOR),163,"5'4""",69,152 lbs,Men's 69kg
+Krzysztof Maciej Zwarycz,M,21,Poland,13/12/1990,Gdynia (POL),170,"5'7""",77,170 lbs,Men's 77kg
+Mariam Usman,F,21,Nigeria,9/11/1990,KADUNA (NGR),156, ,76,168 lbs,Women's +75kg
+Myong Hyok Kim,M,21,Democratic People's Republic of Korea,3/12/1990,N.PHYONGAN (PRK),167,"5'6""",69,152 lbs,Men's 69kg
+Shu-Ching Hsu,F,21,Taipei (Chinese Taipei),9/5/1991,YUNLIN (TPE),159,"5'3""",53,117 lbs,Women's 53kg
+Stevick Patris,M,21,Palau,17/01/1991,Koror (PLW),157,"5'2""",62,137 lbs,Men's 62kg
+Tatiana Kashirina,F,21,Russian Federation,24/01/1991,Moscow Region (RUS),177,"5'10""",80,176 lbs,Women's +75kg
+Thi Thuy Nguyen,F,21,Vietnam,23/08/1990,HANOI,155,"5'1""",53,117 lbs,Women's 53kg
+Tomasz Bernard Zielinski,M,21,Poland,29/10/1990,NAKLO NAD NOTECIA (POL),173,"5'8""",94,207 lbs,Men's 94kg
+Tuau Lapua Lapua,M,21,Tuvalu,15/04/1991,NANUMAGA (TUV),140,"4'7""",62,137 lbs,Men's 62kg
+Arturs Plesnieks,M,20,Latvia,21/01/1992,DOBELE (LAT),180,"5'11""",105,231 lbs,Men's 105kg
+Daniel Godelli,M,20,Albania,10/1/1992,PEQIN ELBASAN (ALB),168,"5'6""",69,152 lbs,Men's 69kg
+Daniyar Ismayilov,M,20,Turkmenistan,3/2/1992,TURKMENABAT (TKM),Not, ,69,152 lbs,Men's 69kg
+Hasbi Muhamad,M,20,Indonesia,12/7/1992,BEKASI (INA),163,"5'4""",62,137 lbs,Men's 62kg
+Jorge David Arroyo Valdez,M,20,Ecuador,23/09/1991,FRANCISCO ORELLANA (ECU),193,"6'4""",105,231 lbs,Men's 105kg
+Kanae Yagi,F,20,Japan,16/07/1992,Kobe (JPN),152,"5'0""",53,117 lbs,Women's 53kg
+Khalil Mahmoud K Abir Abdelrahman,F,20,Egypt,13/06/1992,Alexandria (EGY),162,"5'4""",75,165 lbs,Women's 75kg
+Kianoush Rostami,M,20,Islamic Republic of Iran,23/07/1991,KERMANSHAH (IRI),175,"5'9""",85,187 lbs,Men's 85kg
+Madias Nzesso,F,20,Cameroon,20/04/1992,Douala (CMR),164,"5'5""",70,154 lbs,Women's 75kg
+Maria Fernanda Valdes,F,20,Chile,17/03/1992,COQUIMBO (CHI),162,"5'4""",75,165 lbs,Women's 75kg
+Razvan Constantin Martin,M,20,Romania,22/12/1991,CLUJ NAPOCA (ROU),158,"5'2""",69,152 lbs,Men's 69kg
+Ruslan Nurudinov,M,20,Uzbekistan,24/11/1991,ANDIJAN REGION (UZB),183,"6'0""",105,231 lbs,Men's 105kg
+Yun Chol Om,M,20,Democratic People's Republic of Korea,18/11/1991,N.HAMGYONG (PRK),152,"5'0""",56,123 lbs,Men's 56kg
+Alexandr Zaichikov,M,19,Kazakhstan,17/08/1992,Minsk,Not, ,105,231 lbs,Men's 105kg
+Andres Eduardo Mata Perez,M,19,Spain,11/11/1992,Valencia (VEN),174,"5'9""",77,170 lbs,Men's 77kg
+Apti Aukhadov,M,19,Russian Federation,18/11/1992,URUS,178,"5'10""",85,187 lbs,Men's 85kg
+Boyanka Kostova,F,19,Azerbaijan,10/5/1993,Plovdiv (BUL),150,"4'11""",58,128 lbs,Women's 58kg
+Chatuphum Chinnawong,M,19,Thailand,19/07/1993,NAKHON RATCHASIMA (THA),164,"5'5""",77,170 lbs,Men's 77kg
+Cristina Iovu,F,19,Republic of Moldova,8/11/1992,Chisinau (MDA),155,"5'1""",53,117 lbs,Women's 53kg
+Cristopher Joel Pavon,M,19,Honduras,18/04/1993,El Progreso,170,"5'7""",94,207 lbs,Men's 94kg
+Hassine Ghada,F,19,Tunisia,17/05/1993,SFAX (TUN),156,"5'1""",69,152 lbs,Women's 69kg
+Honami Mizuochi,F,19,Japan,5/2/1993,KITAMOTO (JPN),148,"4'10""",48,106 lbs,Women's 48kg
+Hysen Pulaku,M,19,Albania,8/12/1992,ELBASAN (ALB),170,"5'7""",77,170 lbs,Men's 77kg
+Jong Sim Rim,F,19,Democratic People's Republic of Korea,5/2/1993,Pyongyang (PRK),163,"5'4""",69,152 lbs,Women's 69kg
+Luisa Peters,F,19,Cook Islands,27/06/1993,Rarotonga (COK),156,"5'1""",89,196 lbs,Women's +75kg
+Marina Sisoeva,F,19,Uzbekistan,30/05/1993,FERGANA REGION (UZB),150,"4'11""",48,106 lbs,Women's 48kg
+Rattikan Gulnoi,F,19,Thailand,17/07/1993,BANGKOK (THA),155,"5'1""",58,128 lbs,Women's 58kg
+Saeid Mohammadpourkarkaragh,M,19,Islamic Republic of Iran,3/3/1993,ARDEBIL (IRI),180,"5'11""",94,207 lbs,Men's 94kg
+Silvana Saldarriaga,F,19,Peru,13/03/1993,TUMBES (PER),155,"5'1""",58,128 lbs,Women's 58kg
+Steven Kari,M,19,Papua New Guinea,13/05/1993,Port Moresby (PNG),167,"5'6""",85,187 lbs,Men's 85kg
+Anna Nurmukhambetova,F,18,Kazakhstan,28/07/1993,Kokshetau (KAZ),165,"5'5""",69,152 lbs,Women's 69kg
+Charles Ssekyaaya,M,18,Uganda,11/4/1994,MULAGO (UGA),159,"5'3""",62,137 lbs,Men's 62kg
+Florin Ionut Croitoru,M,18,Romania,25/08/1993,Bucuresti (ROU),160,"5'3""",57,126 lbs,Men's 62kg
+Hsing-Chun Kuo,F,18,Taipei (Chinese Taipei),26/11/1993,ILAN (TPE),155,"5'1""",58,128 lbs,Women's 58kg
+Valentin Hristov,M,18,Azerbaijan,30/03/1994,SHUMEN (BUL),156,"5'1""",56,123 lbs,Men's 56kg
+Walid Bidani,M,18,Algeria,11/6/1994,MAGHNIA TLEMCEN (ALG),180,"5'11""",100,220 lbs,Men's 105kg
+Zoe Smith,F,18,Great Britain,26/04/1994,Greenwich (GBR),159,"5'3""",58,128 lbs,Women's 58kg
+Zulfiya Chinshanlo,F,18,Kazakhstan,25/07/1993,Almaty (KAZ),155,"5'1""",53,117 lbs,Women's 53kg
+Alberta Boatema Ampomah,F,17,Ghana,3/11/1994,Accra (GHA),168, ,80,176 lbs,Women's +75kg
+Beatriz Piron,F,17,Dominican Republic,27/02/1995,SAN PEDRO DE MACORIS (DOM),150,"4'11""",48,106 lbs,Women's 48kg
+Jun Zhou,F,17,People's Republic of China,27/02/1995,Hubei (CHN),155,"5'1""",55,121 lbs,Women's 53kg
+Khadija Mohammad,F,17,United Arab Emirates,19/06/1995,DUBAI (UAE),160,"5'3""",75,165 lbs,Women's 75kg
+Mirco Scarantino,M,17,Italy,16/01/1995,SAN CATALDO (ITA),166,"5'5""",50,110 lbs,Men's 56kg
+Sirivimon Pramongkhol,F,17,Thailand,29/11/1994,CHON BURI (THA),142,"4'8""",48,106 lbs,Women's 48kg
