@@ -20,4 +20,14 @@ NOTE: Units will be SI throughout:
 + Weight in kg
 + Height in cm
 
+## Basic Plots
 
+### Weight/Height ratio vs Lifts
+
+![ratio vs snatch](plot/Weight:HeightvSnatch.png)
+![ratio vs clean & jerk](plot/Weight:HeightvC&J.png)
+
+### Weight/Height ratio vs lifts normalized to bodyweight
+
+![ratio vs snatch](plot/Weight:HeightvNormSnatch.png)
+![ratio vs clean & jerk](plot/Weight:HeightvNormC&J.png)
